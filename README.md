@@ -6,10 +6,10 @@ Seja um desenvolvedor aprendendo, criando e compartilhando coisas incríveis. De
 
 ## Todas as linguagens e estruturas do .NET Framework
 
-+ [C++](https://github.com/Source/README.md#cplusplus) – [CPP](https://github.com/fabasapro/files/cpp)
-+ [c# CSharp](https://github.com/fabasapro/Source/README.md#) – [CS](https://github.com/fabasapro/files/cs)
-+ [CSS](https://github.com/fabasapro/Source/README.md#CSS) – [CSS](https://github.com/fabasapro/files/css)
-+ [F# FSharp](https://github.com/fabasapro/Source/README.md#) – [FS](https://github.com/fabasapro/files/fs)
++ [C++](https://github.com/poitanotalk/Source/blob/main/README.md#cplusplus) – [CPP](https://github.com/fabasapro/files/cpp)
++ [c# CSharp](#csharp) – [CS](https://github.com/fabasapro/files/cs)
++ <a href="https://github.com/poitanotalk/Source/blob/main/README.md#css">CSS</a> – [CSS](https://github.com/fabasapro/files/css)
++ <a href="#fsharp">F# FSharp</a> – [FS](https://github.com/fabasapro/files/fs)
 + [HTML](https://github.com/fabasapro/Source/README.md#) – [HTM](https://github.com/fabasapro/files/htm)
 + [Java-Script](https://github.com/fabasapro/Source/README.md#) – [JS](https://github.com/fabasapro/files/js)
 + [Markdown](https://github.com/fabasapro/Source/README.md#) – [MD](https://github.com/fabasapro/files/md)
@@ -22,13 +22,13 @@ Componentes C/C++ para desktop, celular, Linux e desenvolvimento de jogos.
 [B](https://github.com/fabasapro/languages)
 [C](https://github.com/fabasapro/languages)
 
-## [C#](https://github.com/fabasapro/languages/csharp)
+<h2 id="csharp">C#</h2>
 Código aberto, moderna e inovadora para a criação de todos os seus aplicativos.
 [A](https://github.com/fabasapro/languages)
 [B](https://github.com/fabasapro/languages)
 [C](https://github.com/fabasapro/languages)
 
-## [CSS](https://github.com/fabasapro/languages/css)
+<h2 id="css">CSS</h2>
 Edição de folhas de estilo em CSS.
 [A](https://github.com/fabasapro/languages)
 [B](https://github.com/fabasapro/languages)
