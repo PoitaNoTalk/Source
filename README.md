@@ -1,6 +1,6 @@
 # Linguagens
 
-Este repositório é reservado para as linguagens do [`Visual Studio`](https://visualstudio.microsoft.com) e [`DotNET`](https://dotnet.microsoft.com).
+Este repositório é reservado para as linguagens do [`Visual Studio`<img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />](https://visualstudio.microsoft.com) e [`DotNET`<img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />](https://dotnet.microsoft.com).
 
 Seja um desenvolvedor __aprendendo__, __criando__ e __compartilhando__ coisas incríveis. Defenda sempre um __desenvolvimento útil__, __código-fonte aberto__ e possibilidades ilimitadas para superar desafios de programação.
 
@@ -73,11 +73,6 @@ Código básico limpo que torna mais rápido e fácil criar aplicativos.
 - [✓A](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✓B](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✓C](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
-
-## License
-Este repositório é licenciado com a licença [MIT](LICENSE).
-
-
 
 ---
 [Artigo](https://github.com/fabasapro/languages/article) • [Postagem](https://github.com/fabasapro/languages/post) • [Tutorial](https://github.com/fabasapro/languages/tutorial) • [MIT](LICENSE) ©1996-2023 by @FabasaPro for Social.
