@@ -26,8 +26,6 @@ Componentes __`C/C++`__ para __`Desktop`__, __`Mobile`__, __`Linux`__ e desenvol
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-👀👻💬🗣🎊📷📹📼🚿🔧🔎🔌🔍🔦📄🗒🌵📁📂🎬👣📽🗑☰┆💃✓✔☑☒✎★☆❝A❞✍⚠ℹ⛔ℹ️✖️🔺🔻🚀🚥🚨🚫💡🔔📣📌💣📥📤🎥📎👾 ℂ𝕠𝕡𝕪 ᴘᴀsᴛᴇ 𝒕𝒆𝒙𝒕 ｌｉｋｅ 𝖙𝖍𝖎𝖘 🅐🅝🅓 ⲙⲁⲛⲩ 𝓶𝓸𝓻𝓮. 🕶📸🅰️🅱️🆎🔗🔴🔵🔶🔷🔸🔹🚦🐝🐜🐞🏠🎲🎯🎣🚩
-
 Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
 
 ### __`Visual CSharp`__
