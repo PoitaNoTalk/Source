@@ -1,6 +1,6 @@
 # Linguagens
 
-Este repositório é reservado para as linguagens do [`Visual Studio`<img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />](https://visualstudio.microsoft.com) e [`DotNET`<img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />](https://dotnet.microsoft.com).
+Este repositório é reservado para as linguagens do [`Visual Studio`<img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />](https://visualstudio.microsoft.com) e [`.NET`<img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />](https://dotnet.microsoft.com).
 
 <sup>Seja um desenvolvedor __aprendendo__, __criando__ e __compartilhando__ coisas incríveis. Defenda sempre um __desenvolvimento útil__, __código-fonte aberto__ e possibilidades ilimitadas para superar desafios de programação.</sup>
 
