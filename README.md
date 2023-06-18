@@ -96,4 +96,4 @@ Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#ne
 
 [`Artigos`](https://github.com/poitanotalk) ⋮ [`Postagens`](https://github.com/poitanotalk) ⋮ [`Projetos`](https://github.com/poitanotalk) ⋮ [`Samples`](https://github.com/poitanotalk) ⋮ [`Contribuir`](https://github.com/poitanotalk/source/pulls) ⋮ [`Termos de Uso`](LICENSE)
 
-<sup><b>Copyright © 1996-2023 FabasaPro for Social. All rights reserved.</b></sup>
+<sup><b>Copyright © 1996 – 2023 FabasaPro for Social. All rights reserved.</b></sup>
