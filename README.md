@@ -6,15 +6,15 @@ Este repositório é reservado para as linguagens do [`Visual Studio`<img src="h
 
 ## Neste repositório
 
-+ [`⇱ Visual C ⇲`](https://github.com/poitanotalk/source/tree/main#visual-c) ⋮ __[CPP](https://github.com/fabasapro/files/cpp)__<br /><sup>Uma limguagem de __C__ e __C++__ para criar aplicativos modernos para __`Windows`__ usando ferramentas de sua escolha, incluindo __`MSVC`__, __`Clang`__, __`CMake`__ e __`MSBuild`__.</sup>
-+ [`⇱ Visual CSharp ⇲`](https://github.com/poitanotalk/source/tree/main#visual-csharp) ⋮ __[CS](https://github.com/fabasapro/files/cs)__<br /><sup>Uma linguagem de programação de código aberto, moderna e inovadora para a criação de todos os seus aplicativos.</sup>
-+ [`⇱ CSS ⇲`](https://github.com/poitanotalk/source/tree/main#css) ⋮ __[CSS](https://github.com/fabasapro/files/css)__<br /><sup>Linguagem __`Cascading Style Sheet`__ usado para estilizar elementos escritos em uma linguagem de marcação como __`HTML`__.</sup>
-+ [`⇱ Visual FSharp ⇲`](https://github.com/poitanotalk/source/tree/main#visual-fsharp) ⋮ __[FS](https://github.com/fabasapro/files/fs)__<br /><sup>Uma linguagem de programação na plataforma __`.NET`__ para escrever qualquer aplicativo.</sup>
-+ [`⇱ HTML ⇲`](https://github.com/poitanotalk/source/tree/main#html) ⋮ __[HTM](https://github.com/fabasapro/files/htm)__<br /><sup>Uma linguagem __`HyperText Markup Language`__ de marcação utilizada na construção de páginas na __`Web`__</sup>
-+ [`⇱ Java Script ⇲`](https://github.com/poitanotalk/source/tree/main#java-script) ⋮ __[JS](https://github.com/fabasapro/files/js)__<br /><sup>Uma linguagem de programação usada para fazer páginas interativas da Internet</sup>
-+ [`⇱ Markdown ⇲`](https://github.com/poitanotalk/source/tree/main#markdown) ⋮ __[MD](https://github.com/fabasapro/files/md)__<br /><sup>Uma linguagem simples de marcação que converte texto em __`HTML`__ válido.</sup>
-+ [`⇱ Python ⇲`](https://github.com/poitanotalk/source/tree/main#python) ⋮ __[PY](https://github.com/fabasapro/files/py)__<br /><sup>Uma linguagem de programação de alto nível para interpretar script com sintaxe mais simplificada e próxima da linguagem humana.</sup>
-+ [`⇱ Visual Basic ⇲`](https://github.com/poitanotalk/source/tree/main#visual-basic) ⋮ __[VB](https://github.com/fabasapro/files/vb)__<br /><sup>Uma linguagem de programação orientada a objeto desenvolvida pela __`Microsoft`__ que torna mais rápido e fácil criar aplicativos.</sup>
++ [`Visual C ⇲`](https://github.com/poitanotalk/source/tree/main#visual-c) ⋮ __[CPP](https://github.com/fabasapro/files/cpp)__<br /><sup>Uma limguagem de __C__ e __C++__ para criar aplicativos modernos para __`Windows`__ usando ferramentas de sua escolha, incluindo __`MSVC`__, __`Clang`__, __`CMake`__ e __`MSBuild`__.</sup>
++ [`Visual CSharp ⇲`](https://github.com/poitanotalk/source/tree/main#visual-csharp) ⋮ __[CS](https://github.com/fabasapro/files/cs)__<br /><sup>Uma linguagem de programação de código aberto, moderna e inovadora para a criação de todos os seus aplicativos.</sup>
++ [`CSS ⇲`](https://github.com/poitanotalk/source/tree/main#css) ⋮ __[CSS](https://github.com/fabasapro/files/css)__<br /><sup>Linguagem __`Cascading Style Sheet`__ usado para estilizar elementos escritos em uma linguagem de marcação como __`HTML`__.</sup>
++ [`Visual FSharp ⇲`](https://github.com/poitanotalk/source/tree/main#visual-fsharp) ⋮ __[FS](https://github.com/fabasapro/files/fs)__<br /><sup>Uma linguagem de programação na plataforma __`.NET`__ para escrever qualquer aplicativo.</sup>
++ [`HTML ⇲`](https://github.com/poitanotalk/source/tree/main#html) ⋮ __[HTM](https://github.com/fabasapro/files/htm)__<br /><sup>Uma linguagem __`HyperText Markup Language`__ de marcação utilizada na construção de páginas na __`Web`__</sup>
++ [`Java Script ⇲`](https://github.com/poitanotalk/source/tree/main#java-script) ⋮ __[JS](https://github.com/fabasapro/files/js)__<br /><sup>Uma linguagem de programação usada para fazer páginas interativas da Internet</sup>
++ [`Markdown ⇲`](https://github.com/poitanotalk/source/tree/main#markdown) ⋮ __[MD](https://github.com/fabasapro/files/md)__<br /><sup>Uma linguagem simples de marcação que converte texto em __`HTML`__ válido.</sup>
++ [`Python ⇲`](https://github.com/poitanotalk/source/tree/main#python) ⋮ __[PY](https://github.com/fabasapro/files/py)__<br /><sup>Uma linguagem de programação de alto nível para interpretar script com sintaxe mais simplificada e próxima da linguagem humana.</sup>
++ [`Visual Basic ⇲`](https://github.com/poitanotalk/source/tree/main#visual-basic) ⋮ __[VB](https://github.com/fabasapro/files/vb)__<br /><sup>Uma linguagem de programação orientada a objeto desenvolvida pela __`Microsoft`__ que torna mais rápido e fácil criar aplicativos.</sup>
 
 Contribua para este repositório via [`solicitações de pull ➡`](https://github.com/poitanotalk/source/pulls)
 
@@ -26,7 +26,7 @@ Componentes __`C/C++`__ para __`Desktop`__, __`Mobile`__, __`Linux`__ e desenvol
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ### __`Visual CSharp`__
 Código aberto, moderna e inovadora para a criação de todos os seus aplicativos.
@@ -34,7 +34,7 @@ Código aberto, moderna e inovadora para a criação de todos os seus aplicativo
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ### __`CSS`__
 Edição de folhas de estilo em __`CSS`__.
@@ -42,7 +42,7 @@ Edição de folhas de estilo em __`CSS`__.
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ### __`Visual FSharp`__
 Código aberto que facilita a gravação, robusto e com desempenho.
@@ -50,7 +50,7 @@ Código aberto que facilita a gravação, robusto e com desempenho.
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ### __`HTML`__
 Desenvolvimento __`Web`__.
@@ -58,7 +58,7 @@ Desenvolvimento __`Web`__.
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ### __`Java Script`__
 Criar aplicativos __`Mobile`__, __`Web`__ e páginas interativas com flexibilidade.
@@ -66,7 +66,7 @@ Criar aplicativos __`Mobile`__, __`Web`__ e páginas interativas com flexibilida
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ### __`Markdown`__
 Edição de vários recursos que ajudarão você a ser mais produtivo.
@@ -74,7 +74,7 @@ Edição de vários recursos que ajudarão você a ser mais produtivo.
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ### __`Python`__
 Edição, depuração e desenvolvimento interativo de aplicativos.
@@ -82,7 +82,7 @@ Edição, depuração e desenvolvimento interativo de aplicativos.
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ### __`Visual Basic`__
 Código básico limpo que torna mais rápido e fácil criar aplicativos.
@@ -90,15 +90,10 @@ Código básico limpo que torna mais rápido e fácil criar aplicativos.
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
-Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
+Volte para [`Linguagens ⇱`](https://github.com/poitanotalk/source/tree/main#neste-repositório) __`Visual Studio`__.
 
 ---
 
-[`Artigos`](https://github.com/fabasapro/languages/article) ⋮ [`Postagens`](https://github.com/fabasapro/languages/post) ⋮ [`Tutoriais`](https://github.com/fabasapro/languages/tutorial) ⋮ [`MIT license`](LICENSE)<br /><br />
-<sup>__© 1996-2023, FabasaPro for Social. All rights reserved__</sup>
+[`Artigos`](https://github.com/poitanotalk) ⋮ [`Postagens`](https://github.com/poitanotalk) ⋮ [`Projetos`](https://github.com/poitanotalk) ⋮ [`Samples`](https://github.com/poitanotalk) ⋮ [`Contribuir`](https://github.com/poitanotalk/source/pulls) ⋮ [`Termos de Uso`](LICENSE)
 
-
-
-
-
-
+<sup><b>Copyright © 1996-2023 FabasaPro for Social. All rights reserved.</b></sup>
