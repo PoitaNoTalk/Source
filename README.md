@@ -6,8 +6,8 @@ Este repositório é reservado para as linguagens do [`Visual Studio`<img src="h
 
 ## Neste repositório
 
-+ [`⇱ Visual C ⇲`](https://github.com/poitanotalk/source/tree/main#visual-c) ⋮ __[CPP](https://github.com/fabasapro/files/cpp)__<br /><sup>Uma limguagem de __C__ e __C++__ para criar aplicativos modernos para __`Windows`__ usando ferramentas de sua escolha, incluindo __`MSVC`__, __`Clang`__, __`CMake`__ e __`MSBuild`__.</sup>
-+ [`⇱ Visual CSharp ⇲`](https://github.com/poitanotalk/source/tree/main#visual-csharp) ⋮ __[CS](https://github.com/fabasapro/files/cs)__<br /><sup>Uma linguagem de programação de código aberto, moderna e inovadora para a criação de todos os seus aplicativos.</sup>
++ [`⇱ Visual C ⇲`](https://github.com/poitanotalk/source/tree/main#visual-c) ⋮ __[CPP 📎🔗](https://github.com/fabasapro/files/cpp)__<br /><sup>Uma limguagem de __C__ e __C++__ para criar aplicativos modernos para __`Windows`__ usando ferramentas de sua escolha, incluindo __`MSVC`__, __`Clang`__, __`CMake`__ e __`MSBuild`__.</sup>
++ [`⇱ Visual CSharp ⇲`](https://github.com/poitanotalk/source/tree/main#visual-csharp) ⋮ __[CS 📎🔗](https://github.com/fabasapro/files/cs)__<br /><sup>Uma linguagem de programação de código aberto, moderna e inovadora para a criação de todos os seus aplicativos.</sup>
 + [`⇱ CSS ⇲`](https://github.com/poitanotalk/source/tree/main#css) ⋮ __[CSS](https://github.com/fabasapro/files/css)__<br /><sup>Linguagem __`Cascading Style Sheet`__ usado para estilizar elementos escritos em uma linguagem de marcação como __`HTML`__.</sup>
 + [`⇱ Visual FSharp ⇲`](https://github.com/poitanotalk/source/tree/main#visual-fsharp) ⋮ __[FS](https://github.com/fabasapro/files/fs)__<br /><sup>Uma linguagem de programação na plataforma __`.NET`__ para escrever qualquer aplicativo.</sup>
 + [`⇱ HTML ⇲`](https://github.com/poitanotalk/source/tree/main#html) ⋮ __[HTM](https://github.com/fabasapro/files/htm)__<br /><sup>Uma linguagem __`HyperText Markup Language`__ de marcação utilizada na construção de páginas na __`Web`__</sup>
