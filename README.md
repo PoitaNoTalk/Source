@@ -22,9 +22,9 @@ Contribua para este repositório via [`solicitações de pull ➡`](https://gith
 
 ### `Visual C`
 Componentes __`C/C++`__ para __`Desktop`__, __`Mobile`__, __`Linux`__ e desenvolvimento de __`Games`__.
-- ✔[`A`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
-- ✔[`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
-- ✔[`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
+- [✔`A`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
+- [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
+- [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
 👀👻💬🗣🎊📷📹📼🚿🔧🔎🔌🔍🔦📄🗒🌵📁📂🎬👣📽🗑☰┆💃✓✔☑☒✎★☆❝A❞✍⚠ℹ⛔ℹ️✖️🔺🔻🚀🚥🚨🚫💡🔔📣📌💣📥📤🎥📎👾 ℂ𝕠𝕡𝕪 ᴘᴀsᴛᴇ 𝒕𝒆𝒙𝒕 ｌｉｋｅ 𝖙𝖍𝖎𝖘 🅐🅝🅓 ⲙⲁⲛⲩ 𝓶𝓸𝓻𝓮. 🕶📸🅰️🅱️🆎🔗🔴🔵🔶🔷🔸🔹🚦🐝🐜🐞🏠🎲🎯🎣🚩
 
@@ -32,9 +32,9 @@ Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/mai
 
 ### `Visual CSharp`
 Código aberto, moderna e inovadora para a criação de todos os seus aplicativos.
-- [🔹`A`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
-- [🔹`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
-- [🔹`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
+- [✔`A`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
+- [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
+- [✔`C`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 
 Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
 
