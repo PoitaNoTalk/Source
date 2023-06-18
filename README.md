@@ -20,7 +20,7 @@ Contribua para este repositório via [`solicitações de pull ➡`](https://gith
 
 ## Desenvolvimento .Net
 
-### `Visual C`
+### __`Visual C`__
 Componentes __`C/C++`__ para __`Desktop`__, __`Mobile`__, __`Linux`__ e desenvolvimento de __`Games`__.
 - [✔`A`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
@@ -30,7 +30,7 @@ Componentes __`C/C++`__ para __`Desktop`__, __`Mobile`__, __`Linux`__ e desenvol
 
 Volte para [`⇱ Linguagens ⇲`](https://github.com/poitanotalk/source/tree/main#neste-repositório) do __`Visual Studio`__ e veja mais desenvolvimentos da __`.NET`__
 
-### `Visual CSharp`
+### __`Visual CSharp`__
 Código aberto, moderna e inovadora para a criação de todos os seus aplicativos.
 - [✔`A`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
 - [✔`B`](https://github.com/fabasapro/languages)<br /><sup>Abcdefghijklmnopqrstuvwxyz0123456789.</sup>
