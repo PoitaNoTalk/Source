@@ -18,7 +18,7 @@ Este repositório é reservado para as linguagens do [`Visual Studio`<img src="h
 
 Contribua para este repositório via [`solicitações de pull ➡`](https://github.com/poitanotalk/source/pulls)
 
-## Desenvolvimento .Net
+## Desenvolvimento
 
 ### __`Visual C`__
 Componentes __`C/C++`__ para __`Desktop`__, __`Mobile`__, __`Linux`__ e desenvolvimento de __`Games`__.
