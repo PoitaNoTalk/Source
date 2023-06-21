@@ -4,6 +4,8 @@ By [@FabasaPro](https://github.com/fabasapro) for Social Search<br /><sup>Public
 
 ## Sintaxe
 
+teste 
+ 
 Repita um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.
 
 `DO` [ { `WHILE` | `UNTIL` } _condição_ ]<br />
