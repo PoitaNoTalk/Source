@@ -1,10 +1,10 @@
 ## Artigo
 
-By FabasaPro for Social<br /><sup>Publicado 19 Jun 2023 8h49 &#x22EE; Atualizado 19 Jun 2023 8h49</sup>
+By [@FabasaPro](https://github.com/fabasapro) for Social Search<br /><sup>Publicado em 20 de junho de 2023 às 19h00</sup>
 
 ## Sintaxe
 
-Repete um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.
+Repita um bloco de instruções enquanto uma condição é verdadeira ou até que uma condição se torne verdadeira.
 
 `DO` [ { `WHILE` | `UNTIL` } _condição_ ]<br />
 &nbsp;&nbsp;&nbsp;&nbsp;_bloco-instruções_<br />
@@ -17,13 +17,14 @@ Repete um bloco de instruções enquanto uma condição é verdadeira ou até qu
 A parte da _condição_ é tipo [`Boolean`]() [ { _verdadeiro_ | _falso_ } ]. As expressões **_enquanto i < 10_** ou **_até i > 10_** são avaliadas como [`True`](), diferente de zero, ou [`False`](), igual a zero.
 
 ## Exemplo
-```basic
+```Basic
 Dim i = 0
 Do While i < 10 ' enquanto i < 10
     i = i + 1
 Loop
 ```
-```basic
+
+```Basic
 Dim i = 0
 Do
     i = i + 1
@@ -32,8 +33,8 @@ Loop Until i > 10 ' até i > 10
 
 ## Consulte
 - [`Exit`](https://github.com/poitanotalk/source/vb/exit.md)
-- [`For`...`Next`](https://github.com/poitanotalk/source/vb/fornext.md)
-- [`While`...`Wend`](https://github.com/poitanotalk/source/vb/whilewend.md)
+- [`For...Next`](https://github.com/poitanotalk/source/vb/fornext.md)
+- [`While...Wend`](https://github.com/poitanotalk/source/vb/whilewend.md)
 
 ---
 
