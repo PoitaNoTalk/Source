@@ -1,3 +1,24 @@
+
+[Preview/Code](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)
+
+
+
+`[Preview/Code](https://github.com/{userprofile}/{repository}/blob/main/{file}{extension})`
+
+`[Preview/Code](https://github.com/{userprofile}/{repository}/blob/main/{folder}/{file}{extension})`
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Linguagens
 
 Este repositório é reservado para as linguagens do [`Visual Studio`<img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />](https://visualstudio.microsoft.com) e [`.NET`<img src="https://github.com/poitanotalk/resources/blob/main/svg/tools/externallink.svg" alt="base octocat svg" width="11" height="11" />](https://dotnet.microsoft.com).
