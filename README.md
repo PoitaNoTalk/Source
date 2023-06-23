@@ -12,11 +12,6 @@
 [Select4](https://github.com/poitanotalk/resources/blob/main#Artigo:~:text=By-,FabasaPro,-for%20Social)<br>
 [ZZZZZZZ](https://github.com/poitanotalk/resources#Artigo:~:text=By-,FabasaPro,-for%20Social)
 
-
-[AAAAAAA](./#:~:text=By-,FabasaPro,-for%20Social)<br>
-[BBBBBBB](./#Artigo:~:text=By-,FabasaPro,-for%20Social)
-
-
 <!-- https://github.com/poitanotalk/resources#:~:text=By-,FabasaPro,-for%20Social%0APublicado -->
 
 
