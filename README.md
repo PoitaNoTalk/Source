@@ -10,7 +10,7 @@
 
 [Select3](https://github.com/poitanotalk/resources/blob/main/README.md#ABCDEF:~:text=test-,HEX,-text)<br>
 [Select4](https://github.com/poitanotalk/resources/blob/main#ABCDEF:~:text=test-,HEX,-text)<br>
-[ZZZZZZZ](https://github.com/poitanotalk/resources#:~:text=By-,FabasaPro,-for%20Social%0APublicado)
+[ZZZZZZZ](https://github.com/poitanotalk/resources#Artigo:~:text=FabasaPro)
 
 <!-- https://github.com/poitanotalk/resources#:~:text=By-,FabasaPro,-for%20Social%0APublicado -->
 
