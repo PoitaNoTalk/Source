@@ -5,23 +5,18 @@
 [Preview/Code1](https://github.com/poitanotalk/resources/blob/main/README.md)<br>
 [Preview/Code2](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)<br>
 
-[Select1](https://github.com/poitanotalk/resources#Artigo:~:text=By-,FabasaPro,-for%20Social)<br>
-[Select2](https://github.com/poitanotalk/resources/tree/main#Artigo:~:text=By-,FabasaPro,-for%20Social)
+[GoTo](#Desenvolvimentos)
 
-[Select3](https://github.com/poitanotalk/resources/blob/main/README.md#Artigo:~:text=By-,FabasaPro,-for%20Social)<br>
-[Select4](https://github.com/poitanotalk/resources/blob/main#Artigo:~:text=By-,FabasaPro,-for%20Social)<br>
-[ZZZZZZZ](https://github.com/poitanotalk/resources#Artigo:~:text=By-,FabasaPro,-for%20Social)
 
-<!-- https://github.com/poitanotalk/resources#:~:text=By-,FabasaPro,-for%20Social%0APublicado -->
 
 
 `[Explorer1](https://github.com/{userprofile}/{repository}/tree/main)`<br>
-`[Explorer2](https://github.com/{userprofile}/{repository}/tree/main/{folder})`
+`[Explorer2](https://github.com/{userprofile}/{repository}/tree/main/{path})`
 
 `[Preview/Code1](https://github.com/{userprofile}/{repository}/blob/main/{file}{extension})`<br>
 `[Preview/Code2](https://github.com/{userprofile}/{repository}/blob/main/{folder}/{file}{extension})`
 
-
+`[GoTo](#{header})`
 
 
 
