@@ -5,12 +5,12 @@
 [Preview/Code1](https://github.com/poitanotalk/resources/blob/main/README.md)<br>
 [Preview/Code2](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)<br>
 
-[Select1](https://github.com/poitanotalk/resources#Artigo:~:text=Artigo,By-,#FabasaPro,-for%20Social)<br>
-[Select2](https://github.com/poitanotalk/resources/tree/main#Artigo:~:Artigo,text=By-,#FabasaPro,-for%20Social)
+[Select1](https://github.com/poitanotalk/resources#Artigo:~:text=?Artigo,By-,FabasaPro,-for%20Social)<br>
+[Select2](https://github.com/poitanotalk/resources/tree/main#Artigo:~:?Artigo,text=By-,FabasaPro,-for%20Social)
 
-[Select3](https://github.com/poitanotalk/resources/blob/main/README.md#Artigo:~:text=#Artigo,By-,#FabasaPro,-for%20Social)<br>
-[Select4](https://github.com/poitanotalk/resources/blob/main#Artigo:~:text=Artigo,By-,#FabasaPro,-for%20Social)<br>
-[ZZZZZZZ](https://github.com/poitanotalk/resources#Artigo:~:text=Artigo,By-,#FabasaPro,-for%20Social)
+[Select3](https://github.com/poitanotalk/resources/blob/main/README.md?Artigo:~:text=#Artigo,By-,FabasaPro,-for%20Social)<br>
+[Select4](https://github.com/poitanotalk/resources/blob/main?Artigo:~:text=#Artigo,By-,FabasaPro,-for%20Social)<br>
+[ZZZZZZZ](https://github.com/poitanotalk/resources?Artigo:~:text=#Artigo,By-,FabasaPro,-for%20Social)
 
 <!-- https://github.com/poitanotalk/resources#:~:text=By-,FabasaPro,-for%20Social%0APublicado -->
 
