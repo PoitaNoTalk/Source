@@ -5,7 +5,11 @@
 [Preview/Code1](https://github.com/poitanotalk/resources/blob/main/README.md)<br>
 [Preview/Code2](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)<br>
 
-[Teste](https://github.com/poitanotalk/resources/tree/main/README.md)<br>
+[Select1](https://github.com/poitanotalk/resources#:~:text=Contribua-,para,-este%20reposit%C3%B3rio%20via)<br>
+[Select2](https://github.com/poitanotalk/resources/tree/main#:~:text=Contribua-,para,-este%20reposit%C3%B3rio%20via)
+
+
+<!-- https://github.com/poitanotalk/resources#:~:text=Contribua-,para,-este%20reposit%C3%B3rio%20via -->
 
 `[Explorer1](https://github.com/{userprofile}/{repository}/tree/main)`<br>
 `[Explorer2](https://github.com/{userprofile}/{repository}/tree/main/{folder})`
