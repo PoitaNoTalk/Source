@@ -2,10 +2,10 @@
 [Explorer1](https://github.com/poitanotalk/resources)<br>
 [Explorer2](https://github.com/poitanotalk/resources/tree/main/svg/tools)
 
-[Preview/Code1](https://github.com/poitanotalk/resources/blob/main/readme.md)<br>
+[Preview/Code1](https://github.com/poitanotalk/resources/blob/main/README.md)<br>
 [Preview/Code2](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)<br>
 
-[Teste](https://github.com/poitanotalk/resources/blob/main)<br>
+[Teste](https://github.com/poitanotalk/resources/tree/main/README.md)<br>
 
 `[Explorer1](https://github.com/{userprofile}/{repository}/tree/main)`<br>
 `[Explorer2](https://github.com/{userprofile}/{repository}/tree/main/{folder})`
