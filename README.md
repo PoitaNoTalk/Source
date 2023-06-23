@@ -1,9 +1,9 @@
 
-[Explorer](https://github.com/poitanotalk/resources/tree/main/svg/tools)<br>
-[Explorer](https://github.com/poitanotalk/resources/tree/main)
+[Explorer1](https://github.com/poitanotalk/resources/tree/main/svg/tools)<br>
+[Explorer](https://github.com/poitanotalk/resources)
 
-[Preview/Code](https://github.com/poitanotalk/resources/redame.dm)<br>
-[Preview/Code](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)
+[Preview/Code](https://github.com/poitanotalk/resources)<br>
+[Preview/Code2](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)
 
 `[Explorer](https://github.com/{userprofile}/{repository}/tree/main)`<br>
 `[Explorer](https://github.com/{userprofile}/{repository}/tree/main/{folder})`
