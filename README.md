@@ -5,13 +5,14 @@
 [Preview/Code1](https://github.com/poitanotalk/resources/blob/main/README.md)<br>
 [Preview/Code2](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)<br>
 
-[Select1](https://github.com/poitanotalk/resources#:~:text=Contribua-,para,-este%20reposit%C3%B3rio%20via)<br>
-[Select2](https://github.com/poitanotalk/resources/tree/main#:~:text=Contribua-,para,-este%20reposit%C3%B3rio%20via)
+[Select1](https://github.com/poitanotalk/resources#:~:text=test-,HEX,-text)<br>
+[Select2](https://github.com/poitanotalk/resources/tree/main#:~:text=test-,HEX,-text)
 
-[Select3](https://github.com/poitanotalk/resources/blob/main/README.md#:~:text=Contribua-,para,-este%20reposit%C3%B3rio%20via)<br>
-[Select4](https://github.com/poitanotalk/resources/blob/main#:~:text=Contribua-,para,-este%20reposit%C3%B3rio%20via)
+[Select3](https://github.com/poitanotalk/resources/blob/main/README.md#:~:text=test-,HEX,-text)<br>
+[Select4](https://github.com/poitanotalk/resources/blob/main#:~:text=test-,HEX,-text)
 
-<!-- https://github.com/poitanotalk/resources#:~:text=Contribua-,para,-este%20reposit%C3%B3rio%20via -->
+<!-- https://github.com/poitanotalk/resources/tree/main#:~:text=test-,HEX,-text -->
+
 
 `[Explorer1](https://github.com/{userprofile}/{repository}/tree/main)`<br>
 `[Explorer2](https://github.com/{userprofile}/{repository}/tree/main/{folder})`
