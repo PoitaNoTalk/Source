@@ -1,15 +1,17 @@
 
-[Explorer1](https://github.com/poitanotalk/resources/tree/main/svg/tools)<br>
-[Explorer](https://github.com/poitanotalk/resources)
+[Explorer1](https://github.com/poitanotalk/resources)<br>
+[Explorer2](https://github.com/poitanotalk/resources/tree/main/svg/tools)
 
-[Preview/Code](https://github.com/poitanotalk/resources/blob/main/readme.md)<br>
-[Preview/Code2](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)
+[Preview/Code1](https://github.com/poitanotalk/resources/blob/main/readme.md)<br>
+[Preview/Code2](https://github.com/poitanotalk/resources/blob/main/svg/tools/radiantgradient.svg)<br>
 
-`[Explorer](https://github.com/{userprofile}/{repository}/tree/main)`<br>
-`[Explorer](https://github.com/{userprofile}/{repository}/tree/main/{folder})`
+[Teste](https://github.com/poitanotalk/resources/blob/main)<br>
 
-`[Preview/Code](https://github.com/{userprofile}/{repository}/blob/main/{file}{extension})`<br>
-`[Preview/Code](https://github.com/{userprofile}/{repository}/blob/main/{folder}/{file}{extension})`
+`[Explorer1](https://github.com/{userprofile}/{repository}/tree/main)`<br>
+`[Explorer2](https://github.com/{userprofile}/{repository}/tree/main/{folder})`
+
+`[Preview/Code1](https://github.com/{userprofile}/{repository}/blob/main/{file}{extension})`<br>
+`[Preview/Code2](https://github.com/{userprofile}/{repository}/blob/main/{folder}/{file}{extension})`
 
 
 
